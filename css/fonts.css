@@ -1,0 +1,249 @@
+/* ----------------------------------------------------------------------
+
+	Base Colors
+
+-------------------------------------------------------------------------*/
+
+/*Background colors*/
+
+/*Typography*/
+
+/*Font*/
+
+/*Header*/
+
+/*Side Panel*/
+
+/*Page Titile*/
+
+/*Margins*/
+
+/*Transitions*/
+
+/* ------------------------------------------------------------------------ Fonts - Find/Replace your website fonts with your custom font name.
+
+-------------------------------------------------------------------------*/
+
+/*Body*/
+
+body {
+
+	font-size: 1em;
+
+	font-family: "Baloo Bhaijaan 2", "Helvetica", "Arial", cursive;
+
+}
+
+
+Baloo Bhaijaan 2
+/*Paragraphs*/
+
+p {
+
+	font-family: "Baloo Bhaijaan 2, "Helvetica", "Arial", cursive;
+
+}
+
+
+
+/*Headings*/
+
+h1,
+Baloo Bhaijaan 2
+h2,
+
+h3,
+Baloo Bhaijaan 2
+h4,
+
+h5,
+
+h6,
+
+.h1,Baloo Bhaijaan 2
+
+.h2,
+
+.h3,
+
+.h4,
+Baloo Bhaijaan 2
+.h5,
+
+.h6 {
+Baloo Bhaijaan 2
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+Baloo Bhaijaan 2
+
+/*Main Menu*/
+
+#mainMenu nav>ul>li>a {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+Baloo Bhaijaan 2
+	font-size: 12px;
+
+	font-weight: 600;
+
+	letter-spacingBaloo Bhaijaan 2;
+
+}
+
+
+Baloo Bhaijaan 2
+#mainMenu nav>ul>li .dropdown-menu>li>a,
+
+#mainMenu nav>ul>li .dropdown-menu>li>span,
+
+#mainMenu nav>ul>li .dropdown-menu>li [class*="col-"]>ul>li>a {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+Baloo Bhaijaan 2
+
+
+#mainMenu nav>ul>li.mega-menu-item .mega-menu-content .mega-menu-title {
+Baloo Bhaijaan 2
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+	font-size: 13px;
+
+	font-weight: 6Baloo Bhaijaan 2
+
+}
+
+
+
+.header-extras>ul>li>a:not(.btn),
+
+.header-extras>Baloo Bhaijaan 2topbar-dropdown>.title {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+	font-size: 12px;
+
+	font-weight: 700;
+
+}
+
+
+
+/*Page Menu*/
+
+.page-menu nav>ul>li {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+.page-menu nav>ul>li .dropdown-menu {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+/*Sidebar Menu*/
+
+.sidebar-menu {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+/*Buttons*/
+
+button,
+
+a.btn:not([href]):not([tabindex]),
+
+.btn {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+/*slider*/
+
+.inspiro-slider .slide .slide-captions .strong {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+/*Page Title*/
+
+#page-title .page-title>h1 {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+	font-size: 44px;
+
+	line-height: 56px;
+
+	font-weight: 400;
+
+}
+
+
+
+/*Footer*/
+
+#footer {
+
+	font-size: 14px;
+
+	font-weight: 400;
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+#footer p {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+}
+
+
+
+#footer .widget .widget-title,
+
+#footer .widget h4 {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+	font-size: 14px;
+
+	letter-spacing: 1px;
+
+	font-weight: 600;
+
+}
+
+
+
+#footer .widget .widget-title ul li a,
+
+#footer .widget h4 ul li a {
+
+	font-family: "Poppins", "Helvetica", "Arial", cursive;
+
+	font-size: 15px;
+
+}

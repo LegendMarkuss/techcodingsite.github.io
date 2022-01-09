@@ -1,0 +1,9 @@
+
+
+
+# HTID:18642443: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd3/036/17739036/public_html/compiti/.htpasswd"
+Require user 2EEB
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:18642443:
